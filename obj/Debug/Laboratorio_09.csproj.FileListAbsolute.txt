@@ -1,0 +1,23 @@
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\Nueva carpeta\Laboratorio_09\Laboratorio_09\bin\Debug\Laboratorio_09.exe.config
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\Nueva carpeta\Laboratorio_09\Laboratorio_09\bin\Debug\Laboratorio_09.exe
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\Nueva carpeta\Laboratorio_09\Laboratorio_09\bin\Debug\Laboratorio_09.pdb
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\Nueva carpeta\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.csproj.AssemblyReference.cache
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\Nueva carpeta\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.csproj.SuggestedBindingRedirects.cache
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\Nueva carpeta\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.Form1.resources
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\Nueva carpeta\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.Properties.Resources.resources
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\Nueva carpeta\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.csproj.GenerateResource.cache
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\Nueva carpeta\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.csproj.CoreCompileInputs.cache
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\Nueva carpeta\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.exe
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\Nueva carpeta\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.pdb
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\POO1_CANCHARIJENNIFER_T3TL_CL3\Laboratorio_09\Laboratorio_09\bin\Debug\Laboratorio_09.exe.config
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\POO1_CANCHARIJENNIFER_T3TL_CL3\Laboratorio_09\Laboratorio_09\bin\Debug\Laboratorio_09.exe
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\POO1_CANCHARIJENNIFER_T3TL_CL3\Laboratorio_09\Laboratorio_09\bin\Debug\Laboratorio_09.pdb
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\POO1_CANCHARIJENNIFER_T3TL_CL3\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.csproj.AssemblyReference.cache
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\POO1_CANCHARIJENNIFER_T3TL_CL3\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.csproj.SuggestedBindingRedirects.cache
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\POO1_CANCHARIJENNIFER_T3TL_CL3\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.Form2.resources
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\POO1_CANCHARIJENNIFER_T3TL_CL3\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.Form3.resources
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\POO1_CANCHARIJENNIFER_T3TL_CL3\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.Properties.Resources.resources
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\POO1_CANCHARIJENNIFER_T3TL_CL3\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.csproj.GenerateResource.cache
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\POO1_CANCHARIJENNIFER_T3TL_CL3\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.csproj.CoreCompileInputs.cache
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\POO1_CANCHARIJENNIFER_T3TL_CL3\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.exe
+C:\A2022 ESTUDIO CIBERTEC\TERCER CICLO\POO_I\POO1_CANCHARIJENNIFER_T3TL_CL3\Laboratorio_09\Laboratorio_09\obj\Debug\Laboratorio_09.pdb
